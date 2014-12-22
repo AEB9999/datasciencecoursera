@@ -1,4 +1,5 @@
 ## run_analysis.R
+## this is the completed version 
 print(cat("run analysis script started",date(),sep = " @ "))
 ##
 ##  read features list of 561 measures
